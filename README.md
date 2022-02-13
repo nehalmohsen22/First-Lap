@@ -1,4 +1,3 @@
-# First-Lap
-first lap
 $ git branch -d dev
+or
 $ git branch -D dev
